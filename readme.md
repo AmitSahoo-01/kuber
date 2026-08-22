@@ -1,0 +1,2 @@
+Here i statrted learning Kubernetes and MERN stack. I will be adding my learning notes here.
+And in 1st day i successfully deployed a project on kubernetes cluster through locally with docker and in 2nd day i will try to see the autoscalling feature of kubernetes and will try to deploy a project on cloud.
